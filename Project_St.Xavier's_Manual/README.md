@@ -1,6 +1,6 @@
 # Project 1: St. Xavier's Web Application - Manual QA
 
-Test Case Document:(Refer to `StXaviers_Bugs_TCs.pdf` or the relevant section in your documentation).
+Test Case Document:(Refer to `Project 1(St.Xavier's).pdf`).
 Bug Report:Detailed tracking of defects found during the testing cycle.
 
 ## Scope and Methodology
